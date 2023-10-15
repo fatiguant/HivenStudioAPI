@@ -1,0 +1,12 @@
+name: HivenAPI
+version: '${project.version}'
+main: fr.hivenapi.Main
+authors: [ Deglam, 0xKanoe ]
+website: https://hivenstudio.fr/author/api
+commands:
+  nick:
+  report:
+  f:
+  c:
+  cosmetics:
+  tp:
